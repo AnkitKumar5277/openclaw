@@ -18,7 +18,7 @@ Internet connection
 AI API key (OpenAI / Claude / etc.)
 Optional: VPS server (24/7 running)
 
-# Installation
+# Installation 
 Open Terminal / PowerShell: curl -fsSL https://openclaw.ai/install.sh | bash
 Run Setup Wizard: openclaw onboard --install-daemon
 This configures:
