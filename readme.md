@@ -8,11 +8,7 @@ ChatGPT → answers questions
 OpenClaw → does tasks automatically
 
 # Example tasks:
-Send emails
-Manage calendar
-Automate browser
-Run scripts
-Read files
+Send emails, Manage calendar, Automate browser, Run scripts, Read files, .
 
 # Requirements
 Minimum:
