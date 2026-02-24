@@ -1,4 +1,4 @@
-**OpenClaw Memory Kit — Hinglish me Simple Explanation**
+**OpenClaw Memory Kit**
 
 Socho tum ek **AI assistant ko hire kar rahe ho**. Usko kaam sahi se karne ke liye rules, personality, memory aur tools dene padte hain. **OpenClaw Memory Kit** wahi sab files ka set hai jo AI ko ek **dimaag + personality + system** deta hai.
 
