@@ -49,9 +49,50 @@ Check my emails and summarize
 Create a python script for fibonacci
 
 # AI Model Setup
+You need API key.
+Example:
+OpenAI
+Add to config: OPENAI_API_KEY=yourkey
 
+# Skills (Automation Tools)
+Skills allow automation.
+Examples:
+Email skill
+Browser skill
+File skill
+OpenClaw installs skills like:
+skills/browser
+skills/email
+skills/files
 
+# Browser Automation
+OpenClaw can control browser:
+Open websites, Click buttons, Fill forms
+It uses element snapshot references instead of CSS selectors.
+Example: Open amazon and search laptop
 
+# Memory System
+OpenClaw remembers:
+Past tasks, Preferences, Context
+Example: Remember my favorite language is Python
 
+# Telegram Control (Optional)
+You can control OpenClaw from Telegram.
+Example: /task Check calendar
+Many users use Telegram as a remote control center.
 
+# Real Use Cases
+Student: Summarize PDF, Make notes, Create quiz
+Developer: Write python script, Fix error, Push to github
+QA Tester: Open website, Login, Test forms, Report errors
+Beginner Learning Path
+1 Install OpenClaw
+2 Run first task
+3 Setup API
+4 Try browser automation
+5 Add skills
+6 Create automations
 
+# Security Warning (Important)
+OpenClaw can access: Files, Browser, API keys
+Never install unknown skills. Use test machine. Because malicious skills exist.
