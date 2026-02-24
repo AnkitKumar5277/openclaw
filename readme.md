@@ -25,4 +25,33 @@ This configures:
 AI model
 API keys
 Settings
+**Basic Commands**
 Start OpenClaw: openclaw start
+openclaw stop
+openclaw restart
+openclaw status
+openclaw logs
+**Config Commands**
+openclaw config
+openclaw onboard
+
+# Folder Structure
+openclaw/
+ ├── config/ -> settings
+ ├── memory/ -> AI memory
+ ├── skills/ -> automation tools
+ ├── logs/ -> errors
+ └── data/ ->files
+
+# First Task Example
+Plan my day
+Check my emails and summarize
+Create a python script for fibonacci
+
+# AI Model Setup
+
+
+
+
+
+
