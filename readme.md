@@ -1,4 +1,8 @@
-# What is OpenClaw AI
+<img width="1490" height="819" alt="image" src="https://github.com/user-attachments/assets/f3a7f795-759c-49ed-b77f-57e8c732fe75" />
+
+<img width="1993" height="972" alt="image" src="https://github.com/user-attachments/assets/f371eb46-c8ef-4e50-96fb-742abecbdff7" />
+
+OpenClaw AI
 OpenClaw is an open-source AI agent 
 that runs on your computer or server and can automate tasks 
 like browsing, emails, coding, and file management.
@@ -49,6 +53,7 @@ Check my emails and summarize
 Create a python script for fibonacci
 
 # AI Model Setup
+Create a FREE account here - https://www.kimi.com/kimiplus/sale?
 You need API key.
 Example:
 OpenAI
@@ -64,6 +69,7 @@ OpenClaw installs skills like:
 skills/browser
 skills/email
 skills/files
+npx skills add https://github.com/firecrawl/cli --skill firecrawl
 
 # Browser Automation
 OpenClaw can control browser:
