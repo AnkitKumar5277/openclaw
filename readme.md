@@ -2,10 +2,10 @@
 
 <img width="1993" height="972" alt="image" src="https://github.com/user-attachments/assets/f371eb46-c8ef-4e50-96fb-742abecbdff7" />
 
-OpenClaw AI
-OpenClaw is an open-source AI agent 
-that runs on your computer or server and can automate tasks 
-like browsing, emails, coding, and file management.
+OpenClaw AI  
+OpenClaw is an open-source AI agent   
+that runs on your computer or server and can automate tasks   
+like browsing, emails, coding, and file management.  
 
 # Think:
 ChatGPT → answers questions
